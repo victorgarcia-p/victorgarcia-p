@@ -2,8 +2,8 @@ Web developer with a thirst for learning and a solid focus on software developme
  
 <div align="center">
 <a href="https://github.com/victorgarcia-p">
-<img  height="180em" width="400px" margin-right="15px" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img  height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=dark"/>
+<img  height="180em" width="400px" margin-right="15px" src="https://github-readme-stats.vercel.app/api?username=victorgarcia-p&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img  height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarcia-p&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center">
 <br>

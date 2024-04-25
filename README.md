@@ -1,4 +1,4 @@
-Born in 1994-11-01, I am ASP.NET (C#) Web-Developer, who's actively improving programming and problem solving skills. Driven by a desire to create and innovative efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
+Born in 1994-11-01. I am ASP.NET (C#) Web-Developer, who's actively improving programming and problem solving skills. Driven by a desire to create and innovative efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
  
 <div align="center">
 <a href="https://github.com/victorgarcia-p">

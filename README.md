@@ -1,7 +1,7 @@
-Web developer with a thirst for learning and a solid focus on software development. At the age of 21, I am studying computer engineering while actively improving my programming and problem solving skills. Driven by a desire to create innovative and efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
+Web developer with a thirst for learning and a solid focus on software development. Born in 1994-11-01, I am ASP.NET (C#) Web-Developer, who's actively improving programming and problem solving skills. Driven by a desire to create and innovative efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
  
 <div align="center">
-<a href="https://github.com/tlsamaral">
+<a href="https://github.com/victorgarcia-p">
 <img  height="180em" width="400px" margin-right="15px" src="https://github-readme-stats.vercel.app/api?username=tlsamaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img  height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlsamaral&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -15,8 +15,7 @@ Web developer with a thirst for learning and a solid focus on software developme
 </div>
 <br>
 <div align="center"> 
-<a href="https://instagram.com/tlsamaral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:tallesrafael60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/talles-amaral-0134b4229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/tlsamaral/tlsamaral/blob/output/github-contribution-grid-snake.svg)
+<a href="https://instagram.com/victorgarcia.p1994" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:victorgarcia.p@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-garcia-989810123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

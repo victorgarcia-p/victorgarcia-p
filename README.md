@@ -28,7 +28,6 @@ FullStack Web-Developer, who's actively improving programming and problem solvin
   <a href = "mailto:victorgarcia.p@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/victor-garcia-989810123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </div>
-
 <style>
   .separator {
     margin: 0 10px; /* Ajuste a margem conforme necessário */

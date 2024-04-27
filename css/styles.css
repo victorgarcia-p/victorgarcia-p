@@ -228,4 +228,8 @@
         text-align: left;
     }
 
+    #email-container ion-icon, #email-container a {
+        flex: none;
+    }
+
 }

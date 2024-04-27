@@ -9,7 +9,7 @@ FullStack Web-Developer, who's actively improving programming and problem solvin
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
- <span class="separator"> | </span>
+ <span style="margin: 0 10px;"> | </span>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -28,8 +28,3 @@ FullStack Web-Developer, who's actively improving programming and problem solvin
   <a href = "mailto:victorgarcia.p@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/victor-garcia-989810123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </div>
-<style>
-  .separator {
-    margin: 0 10px; /* Ajuste a margem conforme necessário */
-  }
-</style>

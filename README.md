@@ -1,14 +1,12 @@
-ASP.NET (C#) Web-Developer, who's actively improving programming and problem solving skills. Driven by a desire to create and innovative efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
- 
+FullStack Web-Developer, who's actively improving programming and problem solving skills. Driven by a desire to create and innovative efficient solutions, I look forward to contributing to impactful projects and further expanding my knowledge in the world of development. 🚀
+<hr>
 <div align="center">
   <a href="https://github.com/victorgarcia-p">
   <img  height="180em" width="400px" margin-right="15px" src="https://github-readme-stats.vercel.app/api?username=victorgarcia-p&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarcia-p&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
 <br>
-
-<div style="display: inline_block" align="center">
+<div align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
  <span>|</span>
